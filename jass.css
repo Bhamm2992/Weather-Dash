@@ -1,0 +1,23 @@
+body {
+  font-family: 'hebrew', cursive;
+  font-size: 18px;
+  line-height: 3;
+  font-weight: bold;
+}
+.jumbotron {
+background-color: blue;
+color: white;
+}
+.card-title {
+  background-color: blue;
+  color: white;
+
+}
+
+.form-group {
+
+}
+
+.btn-secondary {
+
+}
